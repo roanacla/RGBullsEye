@@ -15,6 +15,7 @@
 		DB7AE654247749810062EEFB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DB7AE652247749810062EEFB /* LaunchScreen.storyboard */; };
 		DB7AE65F247749810062EEFB /* RGBullsEyeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB7AE65E247749810062EEFB /* RGBullsEyeTests.swift */; };
 		DB7AE66A247749810062EEFB /* RGBullsEyeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB7AE669247749810062EEFB /* RGBullsEyeUITests.swift */; };
+		DB8A56CC247C9C310057A42F /* TimeCounter.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB8A56CB247C9C310057A42F /* TimeCounter.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		DB7AE665247749810062EEFB /* RGBullsEyeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = RGBullsEyeUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		DB7AE669247749810062EEFB /* RGBullsEyeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RGBullsEyeUITests.swift; sourceTree = "<group>"; };
 		DB7AE66B247749810062EEFB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DB8A56CB247C9C310057A42F /* TimeCounter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimeCounter.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				DB7AE652247749810062EEFB /* LaunchScreen.storyboard */,
 				DB7AE655247749810062EEFB /* Info.plist */,
 				DB7AE64F247749810062EEFB /* Preview Content */,
+				DB8A56CB247C9C310057A42F /* TimeCounter.swift */,
 			);
 			path = RGBullsEye;
 			sourceTree = "<group>";
@@ -270,6 +273,7 @@
 				DB7AE6482477497E0062EEFB /* AppDelegate.swift in Sources */,
 				DB7AE64A2477497E0062EEFB /* SceneDelegate.swift in Sources */,
 				DB7AE64C2477497E0062EEFB /* ContentView.swift in Sources */,
+				DB8A56CC247C9C310057A42F /* TimeCounter.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
